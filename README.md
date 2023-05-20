@@ -1,6 +1,6 @@
 # ✨4rmy✨
 
-**`Lone Programmer (Developer/Gamer/Streamer)`**
+**`Lone Programmer (Developer/Gamer)`**
 
   I'm a solo programmer using different programming languages and projects in order
 to explore the world of computer science! 🔬
